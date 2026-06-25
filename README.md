@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=161B22" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/ranejai954">
+  <a href="https://www.linkedin.com/in/jai-rane-62ba58352">
     <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00B4D8" />
   </a>
 </p>
