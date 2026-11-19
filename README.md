@@ -1,524 +1,288 @@
 
 <div align="center">
 
-![Cyber Hero](https://www.gitskins.com/api/section/hero?username=ranejai954&theme=cyber)
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!--                         CYBER TERMINAL                               -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=ranejai954&theme=cyber" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=39FF88&center=true&vCenter=true&width=800&lines=CYBERSECURITY+%7C+SOC+%7C+BLUE+TEAM;Learning+to+detect.+Building+to+defend.;Python+%7C+Networking+%7C+Security+Labs;Curiosity+is+the+first+line+of+defence." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+JAI+RANE;%3E+CYBERSECURITY+ENTHUSIAST;%3E+ASPIRING+SOC+ANALYST;%3E+THREAT+HUNTER+IN+TRAINING" alt="Typing animation" />
 
 <br/>
 
-<a href="https://portfolio-v22-jai-rane.vercel.app/">
-<img src="https://img.shields.io/badge/◈%20PORTFOLIO-39FF88?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-<a href="https://github.com/ranejai954?tab=repositories">
-<img src="https://img.shields.io/badge/⌘%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=39FF88" />
-</a>
-<a href="https://www.linkedin.com/in/jai-rane-62ba58352/">
-<img src="https://img.shields.io/badge/◉%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=39FF88" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=black" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/LOCATION-MUMBAI%2C%20INDIA-00ff41?style=for-the-badge&logo=googlemaps&logoColor=black" />
 
 </div>
 
 ---
-
-<img src="https://www.gitskins.com/api/section/portrait?username=ranejai954&theme=cyber" width="100%" />
-
-## `// IDENTITY`
 
 ```bash
-┌──[ JAI RANE ]
-│
-├── Role      : Cybersecurity Student
-├── Focus     : SOC | Blue Team | Security Analysis
-├── Location  : Mumbai, India
-├── Language  : Python
-├── Interest  : Threat Detection & Defence
-└── Objective : Learn. Investigate. Build. Defend.
+┌──[jai@cyberlab]──[~]
+└─$ whoami
+
+> Jai Rane
+> B.Sc. Computer Science Student
+> Cybersecurity | Blue Team | SOC Operations
+> Building. Breaking. Learning. Securing.
 ```
-
-I'm a Computer Science student building my path in cybersecurity through hands-on projects, security labs, internships and continuous learning.
-
-My interests revolve around understanding how systems fail, how threats are identified, and how security practices can make systems more resilient.
-
-> `Learning to detect. Building to defend.`
-
----
-
-## `// OPERATIONS`
-
-<img src="https://www.gitskins.com/api/section/stats?username=ranejai954&theme=cyber" width="100%" />
-
----
-
-## `// ARSENAL`
-
-<img src="https://www.gitskins.com/api/section/stack?username=ranejai954&theme=cyber" width="100%" />
-
-<details>
-<summary><b>Security domains & technologies</b></summary>
-
-<br/>
-
-| DOMAIN | TOOLKIT / KNOWLEDGE |
-|---|---|
-| Network Security | Nmap, Wireshark, Networking |
-| Web Security | Burp Suite, OWASP ZAP |
-| Vulnerability Assessment | Nessus, Metasploit |
-| Operating Systems | Kali Linux, Linux |
-| Programming | Python, C, Java, SQL |
-| AI / ML | Generative AI, ML, RAG, LangChain |
-| Cloud | Microsoft Azure, IBM Cloud, Google Cloud concepts |
-| Development | HTML, CSS, JavaScript |
-
-<br/>
-
-**Areas I'm developing:**
-
-- Security monitoring
-- Vulnerability assessment
-- VAPT fundamentals
-- Threat analysis
-- Incident response fundamentals
-- Network security
-- Web application security
-- System hardening
-- Security automation
-
-</details>
-
----
-
-## `// CASE FILES`
-
-<img src="https://www.gitskins.com/api/section/projects?username=ranejai954&theme=cyber" width="100%" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01 // PhishShield AI`
-
-An AI-driven phishing analysis project exploring URL and email classification.
-
-- URL & email analysis
-- NLP
-- Machine learning
-- Feature extraction
-
-**Stack:** Python · NLP · ML
-
-</td>
-<td width="50%" valign="top">
-
-### `02 // Network IDS`
-
-Machine-learning-based exploration of network activity and potential anomalies.
-
-- Network activity analysis
-- Anomaly detection
-- ML-based approach
-
-**Stack:** Python · ML · Networking
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03 // Packet Sniffer`
-
-A Python-based packet inspection tool for exploring network traffic.
-
-- Packet capture
-- Protocol inspection
-- Traffic filtering
-
-**Stack:** Python · Scapy
-
-</td>
-<td width="50%" valign="top">
-
-### `04 // SOC Automation Lab`
-
-A learning lab focused on security-log analysis and SOC workflows.
-
-- Log analysis
-- Alert triage
-- Automation workflows
-
-**Stack:** Python · Elastic Stack · SIEM
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-<a href="https://github.com/ranejai954?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF88?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://komarev.com/ghpvc/?username=ranejai954&label=INTRUSION%20LOG%20%7C%20PROFILE%20VISITS&color=00ff41&style=flat-square" alt="Profile views"/>
+
+</div>
+
+---
+
+## `01 // ABOUT_ME`
+
+```python
+class CyberSecurityAnalyst:
+    def __init__(self):
+        self.name = "Jai Rane"
+        self.education = "B.Sc. Computer Science"
+        self.location = "Mumbai, India"
+        self.focus = [
+            "Cybersecurity",
+            "SOC Operations",
+            "Blue Team",
+            "Threat Analysis",
+            "Network Security",
+            "Vulnerability Assessment"
+        ]
+        self.learning = [
+            "Incident Response",
+            "SIEM",
+            "Threat Detection",
+            "Security Automation"
+        ]
+
+    def mission(self):
+        return "Turn curiosity into capability."
+```
+
+> A computer science student working towards a career in cybersecurity, exploring security tools, network analysis, vulnerability assessment and defensive security practices through labs, projects and internships.
+
+---
+
+## `02 // TECH_STACK`
+
+<div align="center">
+
+### SECURITY & NETWORKING
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge"/>
+
+### PROGRAMMING
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### CLOUD & AI
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+### TOOLS & ENVIRONMENT
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+## `03 // OPERATIONS & PROJECTS`
+
+<details>
+<summary><b>01 | PhishShield AI</b></summary>
+
+> AI-assisted phishing detection and analysis.
+
+- Designed a phishing detection project using Python and machine learning concepts.
+- Focused on identifying suspicious URLs and phishing-related indicators.
+- Explored feature extraction and classification techniques.
+
+**Stack:** Python | Machine Learning | NLP
+
+</details>
+
+<details>
+<summary><b>02 | Network Intrusion Detection System</b></summary>
+
+> Exploring network traffic classification and anomaly detection.
+
+- Developed an ML-based network intrusion detection project.
+- Explored network activity analysis and suspicious behaviour detection.
+- Worked with data preprocessing and machine learning workflows.
+
+**Stack:** Python | Machine Learning | Network Security
+
+</details>
+
+<details>
+<summary><b>03 | Packet Sniffer</b></summary>
+
+> Network packet inspection and traffic analysis.
+
+- Built a packet sniffing tool using Python.
+- Explored packet capture and protocol inspection.
+- Practiced understanding network traffic.
+
+**Stack:** Python | Scapy | Networking
+
+</details>
+
+<details>
+<summary><b>04 | SOC Automation Lab</b></summary>
+
+> Security logs, detection workflows and automation.
+
+- Explored security log monitoring and analysis.
+- Practiced alert triage workflows.
+- Worked with automation concepts in security operations.
+
+**Stack:** Python | SIEM | Elastic Stack
+
+</details>
+
+<div align="center">
+
+<a href="https://github.com/ranejai954">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## `// FIELD EXPERIENCE`
-
-<img src="https://img.shields.io/badge/01-TEKLOOMY-39FF88?style=flat-square&logoColor=black" />
-
-**Cybersecurity Intern**  
-Tekloomy (OPC) Pvt. Ltd. · Oct 2026 – Present
-
-Developing practical cybersecurity knowledge through internship activities focused on security concepts and defensive practices.
-
-<br/>
-
-<img src="https://img.shields.io/badge/02-APEXPLANET-FF4655?style=flat-square&logoColor=white" />
-
-**Cybersecurity & Ethical Hacking Intern**  
-ApexPlanet Software Pvt. Ltd. · Jul 2026 – Sep 2026
-
-- Practised vulnerability scanning, network analysis and penetration-testing fundamentals.
-- Worked with Kali Linux, Nmap, Wireshark and Metasploit.
-- Developed security reporting and system-hardening skills.
-
-<br/>
-
-<img src="https://img.shields.io/badge/03-LENOVO_LEAP-39FF88?style=flat-square&logoColor=black" />
-
-**Generative AI & Agentic Systems Engineering Intern**  
-Lenovo LEAP · Jun 2026 – Jul 2026
-
-- Explored Generative AI and agentic system architectures.
-- Completed guided exercises in emerging AI technologies.
-- Explored AI-assisted pattern detection and reporting.
-
----
-
-## `// EDUCATION`
-
-**B.Sc. Computer Science**
-
-Keraleeya Samajam's Model College (Autonomous)
-
-`July 2024 — April 2027 | Expected`
+## `04 // EXPERIENCE`
 
 <details>
-<summary><b>Academic focus</b></summary>
+<summary><b>Tekloomy (OPC) Pvt. Ltd. | Cybersecurity Intern</b></summary>
 
-- Cybersecurity Fundamentals
-- Network Security
-- Operating Systems
-- Cryptography
-- Database Management
+`October 2026 — Present`
+
+- Engaging with cybersecurity concepts and defensive security practices.
+- Developing foundational knowledge through internship activities and practical learning.
+
+</details>
+
+<details>
+<summary><b>ApexPlanet Software | Cybersecurity & Ethical Hacking Intern</b></summary>
+
+`July 2026 — September 2026`
+
+- Practiced vulnerability assessment and network analysis.
+- Worked with Kali Linux and cybersecurity tools.
+- Explored penetration testing fundamentals in lab environments.
+
+</details>
+
+<details>
+<summary><b>Lenovo LEAP | GenAI & Agentic Systems Engineering Intern</b></summary>
+
+`June 2026 — July 2026`
+
+- Explored Generative AI and agentic systems engineering concepts.
+- Developed understanding of emerging AI technologies.
 
 </details>
 
 ---
 
-## `// CERTIFICATIONS`
+## `05 // CERTIFICATIONS`
 
-<img src="https://img.shields.io/badge/CISCO-Junior_Cybersecurity_Analyst-39FF88?style=flat-square&logo=cisco&logoColor=black" />
-
-<img src="https://img.shields.io/badge/CISCO-Introduction_to_Cybersecurity-111111?style=flat-square&logo=cisco&logoColor=39FF88" />
-
-<img src="https://img.shields.io/badge/CISCO-Networking_Essentials-111111?style=flat-square&logo=cisco&logoColor=39FF88" />
-
-<img src="https://img.shields.io/badge/GOOGLE_CLOUD-Trust_and_Security-111111?style=flat-square&logo=googlecloud&logoColor=39FF88" />
-
-<img src="https://img.shields.io/badge/LANGCHAIN-RAG_with_LangChain-111111?style=flat-square&logo=langchain&logoColor=39FF88" />
+- Cisco — Junior Cybersecurity Analyst
+- Cisco — Introduction to Cybersecurity
+- Cisco — Networking Essentials
+- Google Cloud — Trust and Security with Google Cloud
+- RAG with LangChain
 
 ---
 
-## `// ACTIVITY`
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=ranejai954&theme=cyber&style=snake" width="100%" />
-
----
+## `06 // GITHUB_ACTIVITY`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101820,100:39FF88&height=2" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ranejai954&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub statistics"/>
 
-### `BUILDING SKILLS. ANALYSING THREATS. MOVING FORWARD.`
-
-<a href="https://portfolio-v22-jai-rane.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-39FF88?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<a href="mailto:ran...@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF4655?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranejai954&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="40%" alt="Top languages"/>
 
 <br/><br/>
 
-<code>Learning → Analysing → Building → Defending</code>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,50:101820,100:050505&height=120&section=footer" width="100%" />
+<img src="https://streak-stats.demolab.com?user=ranejai954&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=808080" width="70%" alt="GitHub streak"/>
 
 </div>
 
+---
+
+## `07 // CONTRIBUTION_ACTIVITY`
+
 <div align="center">
 
-![Cyber Hero](https://www.gitskins.com/api/section/hero?username=ranejai954&theme=cyber)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranejai954&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=ranejai954&theme=cyber" width="100%" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=39FF88&center=true&vCenter=true&width=800&lines=CYBERSECURITY+%7C+SOC+%7C+BLUE+TEAM;Learning+to+detect.+Building+to+defend.;Python+%7C+Networking+%7C+Security+Labs;Curiosity+is+the+first+line+of+defence." />
+---
 
-<br/>
+## `08 // CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ranejai954/ranejai954/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## `09 // CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jai-rane-62ba58352/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ranejai954">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://portfolio-v22-jai-rane.vercel.app/">
-<img src="https://img.shields.io/badge/◈%20PORTFOLIO-39FF88?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-<a href="https://github.com/ranejai954?tab=repositories">
-<img src="https://img.shields.io/badge/⌘%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=39FF88" />
-</a>
-<a href="https://www.linkedin.com/in/jai-rane-62ba58352/">
-<img src="https://img.shields.io/badge/◉%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Portfolio-Explore-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-<img src="https://www.gitskins.com/api/section/portrait?username=ranejai954&theme=cyber" width="100%" />
+<div align="center">
 
-## `// IDENTITY`
+```text
+[ ACCESS GRANTED ]
 
-```bash
-┌──[ JAI RANE ]
-│
-├── Role      : Cybersecurity Student
-├── Focus     : SOC | Blue Team | Security Analysis
-├── Location  : Mumbai, India
-├── Language  : Python
-├── Interest  : Threat Detection & Defence
-└── Objective : Learn. Investigate. Build. Defend.
+Curiosity > Comfort
+Consistency > Excuses
+Learning > Ego
+
+// KEEP LEARNING. KEEP SECURING.
 ```
 
-I'm a Computer Science student building my path in cybersecurity through hands-on projects, security labs, internships and continuous learning.
-
-My interests revolve around understanding how systems fail, how threats are identified, and how security practices can make systems more resilient.
-
-> `Learning to detect. Building to defend.`
-
----
-
-## `// OPERATIONS`
-
-<img src="https://www.gitskins.com/api/section/stats?username=ranejai954&theme=cyber" width="100%" />
-
----
-
-## `// ARSENAL`
-
-<img src="https://www.gitskins.com/api/section/stack?username=ranejai954&theme=cyber" width="100%" />
-
-<details>
-<summary><b>Security domains & technologies</b></summary>
-
-<br/>
-
-| DOMAIN | TOOLKIT / KNOWLEDGE |
-|---|---|
-| Network Security | Nmap, Wireshark, Networking |
-| Web Security | Burp Suite, OWASP ZAP |
-| Vulnerability Assessment | Nessus, Metasploit |
-| Operating Systems | Kali Linux, Linux |
-| Programming | Python, C, Java, SQL |
-| AI / ML | Generative AI, ML, RAG, LangChain |
-| Cloud | Microsoft Azure, IBM Cloud, Google Cloud concepts |
-| Development | HTML, CSS, JavaScript |
-
-<br/>
-
-**Areas I'm developing:**
-
-- Security monitoring
-- Vulnerability assessment
-- VAPT fundamentals
-- Threat analysis
-- Incident response fundamentals
-- Network security
-- Web application security
-- System hardening
-- Security automation
-
-</details>
-
----
-
-## `// CASE FILES`
-
-<img src="https://www.gitskins.com/api/section/projects?username=ranejai954&theme=cyber" width="100%" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01 // PhishShield AI`
-
-An AI-driven phishing analysis project exploring URL and email classification.
-
-- URL & email analysis
-- NLP
-- Machine learning
-- Feature extraction
-
-**Stack:** Python · NLP · ML
-
-</td>
-<td width="50%" valign="top">
-
-### `02 // Network IDS`
-
-Machine-learning-based exploration of network activity and potential anomalies.
-
-- Network activity analysis
-- Anomaly detection
-- ML-based approach
-
-**Stack:** Python · ML · Networking
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03 // Packet Sniffer`
-
-A Python-based packet inspection tool for exploring network traffic.
-
-- Packet capture
-- Protocol inspection
-- Traffic filtering
-
-**Stack:** Python · Scapy
-
-</td>
-<td width="50%" valign="top">
-
-### `04 // SOC Automation Lab`
-
-A learning lab focused on security-log analysis and SOC workflows.
-
-- Log analysis
-- Alert triage
-- Automation workflows
-
-**Stack:** Python · Elastic Stack · SIEM
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/ranejai954?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-39FF88?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</div>
-
----
-
-## `// FIELD EXPERIENCE`
-
-<img src="https://img.shields.io/badge/01-TEKLOOMY-39FF88?style=flat-square&logoColor=black" />
-
-**Cybersecurity Intern**  
-Tekloomy (OPC) Pvt. Ltd. · Oct 2026 – Present
-
-Developing practical cybersecurity knowledge through internship activities focused on security concepts and defensive practices.
-
-<br/>
-
-<img src="https://img.shields.io/badge/02-APEXPLANET-FF4655?style=flat-square&logoColor=white" />
-
-**Cybersecurity & Ethical Hacking Intern**  
-ApexPlanet Software Pvt. Ltd. · Jul 2026 – Sep 2026
-
-- Practised vulnerability scanning, network analysis and penetration-testing fundamentals.
-- Worked with Kali Linux, Nmap, Wireshark and Metasploit.
-- Developed security reporting and system-hardening skills.
-
-<br/>
-
-<img src="https://img.shields.io/badge/03-LENOVO_LEAP-39FF88?style=flat-square&logoColor=black" />
-
-**Generative AI & Agentic Systems Engineering Intern**  
-Lenovo LEAP · Jun 2026 – Jul 2026
-
-- Explored Generative AI and agentic system architectures.
-- Completed guided exercises in emerging AI technologies.
-- Explored AI-assisted pattern detection and reporting.
-
----
-
-## `// EDUCATION`
-
-**B.Sc. Computer Science**
-
-Keraleeya Samajam's Model College (Autonomous)
-
-`July 2024 — April 2027 | Expected`
-
-<details>
-<summary><b>Academic focus</b></summary>
-
-- Cybersecurity Fundamentals
-- Network Security
-- Operating Systems
-- Cryptography
-- Database Management
-
-</details>
-
----
-
-## `// CERTIFICATIONS`
-
-<img src="https://img.shields.io/badge/CISCO-Junior_Cybersecurity_Analyst-39FF88?style=flat-square&logo=cisco&logoColor=black" />
-
-<img src="https://img.shields.io/badge/CISCO-Introduction_to_Cybersecurity-111111?style=flat-square&logo=cisco&logoColor=39FF88" />
-
-<img src="https://img.shields.io/badge/CISCO-Networking_Essentials-111111?style=flat-square&logo=cisco&logoColor=39FF88" />
-
-<img src="https://img.shields.io/badge/GOOGLE_CLOUD-Trust_and_Security-111111?style=flat-square&logo=googlecloud&logoColor=39FF88" />
-
-<img src="https://img.shields.io/badge/LANGCHAIN-RAG_with_LangChain-111111?style=flat-square&logo=langchain&logoColor=39FF88" />
-
----
-
-## `// ACTIVITY`
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=ranejai954&theme=cyber&style=snake" width="100%" />
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101820,100:39FF88&height=2" width="100%" />
-
-### `BUILDING SKILLS. ANALYSING THREATS. MOVING FORWARD.`
-
-<a href="https://portfolio-v22-jai-rane.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-39FF88?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<a href="mailto:ran...@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF4655?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<code>Learning → Analysing → Building → Defending</code>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,50:101820,100:050505&height=120&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile.;See+you+in+the+next+commit." alt="Footer typing animation"/>
 
 </div>
