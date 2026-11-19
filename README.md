@@ -242,6 +242,7 @@ class CyberSecurityAnalyst:
 ---
 
 ## `08 // CONTRIBUTION_SNAKE`
+[![Generate Contribution Snake](https://github.com/ranejai954/ranejai954/actions/workflows/snake.yml/badge.svg)](https://github.com/ranejai954/ranejai954/actions/workflows/snake.yml)
 
 <div align="center">
 
